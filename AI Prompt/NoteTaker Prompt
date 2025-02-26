@@ -1,0 +1,17 @@
+Prompt 1
+
+1. Generate a beautiful web application called “Note Taker” powered by Supabase.
+2. The user can sign in and create a note that would be stored in the database.
+3. Generate a homepage, sign up, sign in, email confirmation, reset password, and dashboard pages using vanilla HTML, CSS, and Javascript.
+4. Add Supabase client library via CDN to sign in, sign up, password reset, and dashboard pages.
+5. The dashboard page allows signed in users to see, create, modify, and delete notes.
+6. The dashboard page will have its own Javascript file that stores and fetches notes from the database.
+7. Generate a Javascript file that will handle the user authentication.
+8. Generate a .env file to store the Supabase Project URL and Public Anon Key.
+
+Prompt 2
+
+Prompt 2:
+1. Hey, I have tested the user authentication and it's working.
+2. Provide the step by step guide to generate a table in Supabase.
+3. Provide an SQL command to generate the table in Supabase with Row Level Security enabled.
